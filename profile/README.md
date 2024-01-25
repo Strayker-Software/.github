@@ -1,12 +1,27 @@
-## Strayker Software
+<div style="text-align: center;">
+    <h1>Strayker Software</h1>
+    <img src="banner.png" alt="Strayker Software Banner" />
+</div>
 
-Welcome to Strayker Software GitHub organisation! Check out our public repos and help us to create great software.
+<div style="text-align: center;">
+    <p>Welcome to Strayker Software GitHub organisation.</p>
+    <p>We are a group of tech-fascinated people, that want to make a change - deliver software with passion and understanding of market's needs.</p>
+    <p>On this organisation are collected all our Open Source projects, that are maintained by us.</p>
+</div>
 
-### Code of Conduct
+## Code of Conduct
 
-To be announced...
+Strayker Software adapted [Contributor Convenant Code of Conduct](https://www.contributor-covenant.org/).
 
-### Contribution Licensing
+## Contribution Licensing
 
-All contributions to public repositories are being licensed to organisation, by default under MIT/X11 license.
-If given repo's license states otherwise, repo's license is used.
+By default, organisation is not pre-forcing any copyrights transfers on it's contributors.
+Every contribution follows licensing terms of given project.
+
+## Contact
+
+Join us on this exciting journey!
+
+[Email us!](mailto:contact@straykersoftware.pl)
+
+[Our FB Fanpage](https://www.facebook.com/straykersoftware)
