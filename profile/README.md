@@ -1,12 +1,13 @@
-<div style="text-align: center;">
-    <h1>Strayker Software</h1>
-    <img src="banner.png" alt="Strayker Software Banner" />
-</div>
-
-<div style="text-align: center;">
-    <p>Welcome to Strayker Software GitHub organisation.</p>
-    <p>We are a group of tech-fascinated people, that want to make a change - deliver software with passion and understanding of market's needs.</p>
-    <p>On this organisation are collected all our Open Source projects, that are maintained by us.</p>
+<div>
+    <div align="center">
+        <h1>Strayker Software</h1>
+        <img align="center" src="https://github.com/Strayker-Software/.github/blob/develop/profile/banner.png" alt="Strayker Software Banner">
+    </div>
+    <div align="center">
+        <p>Welcome to Strayker Software GitHub organisation.</p>
+        <p>We are a group of tech-fascinated people, that want to make a change - deliver software with passion and understanding of market's needs.</p>
+        <p>On this organisation are collected all our Open Source projects, that are maintained by us.</p>
+    </div>
 </div>
 
 ## Code of Conduct
